@@ -4,7 +4,7 @@
   <groupId>devops.gr2</groupId>
   <artifactId>gr2-webapp</artifactId>
   <packaging>war</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0.1</version>
   <name>gr2-webapp Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
